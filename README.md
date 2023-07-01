@@ -15,7 +15,7 @@ A repository to document my learning about NEAR.
 
 ### Useful Information and Websites
 - [Near Social](https://near.social/#/)
-- [Near Social (tesnet)][https://test.near.social/#/]
+- [Near Social (tesnet)](https://test.near.social/#/)
 - [Near Social Technical Documentation](https://thewiki.near.page/near.social_docs)
 - [Past, Present And Future Of Near Social](https://thewiki.near.page/PastPresentAndFutureOfNearSocial)
 - [Near Social GitHub](https://github.com/NearSocial)
