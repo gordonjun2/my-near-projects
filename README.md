@@ -7,15 +7,13 @@ A repository to document my learning about NEAR.
   - [BOS Academy](https://near.social/#/mob.near/widget/MyPage?accountId=academy.near)
 
 ## NEAR Smart Contracts
----
 
 ## NEAR Blockchain Operating System (BOS)
----
 
-## Useful Videos
+### Useful Videos
 - [BOS Academy Playlist](https://www.youtube.com/playlist?list=PLfhNHA8XzVu6wLicDkkv4hp-TXCMv6MHo)
 
-## Useful Information and Websites
+### Useful Information and Websites
 - [Near Social](https://near.social/#/)
 - [Near Social (tesnet)][https://test.near.social/#/]
 - [Near Social Technical Documentation](https://thewiki.near.page/near.social_docs)
@@ -24,7 +22,7 @@ A repository to document my learning about NEAR.
 - [NEAR BOS Documentation](https://docs.near.org/bos/)
 - [nearpad](https://nearpad.dev/)
 
-## Projects
+### Projects
 - BOS Academy Lesson 1 (Build Your First #BOS App)
   - [BOS ACADEMY: HW #1: Build A First BOS App](https://near.social/#/devgovgigs.near/widget/gigs-board.pages.Post?id=731)
   - [NEAR Social Profile Page](https://near.social/#/mob.near/widget/WidgetSource?src=mob.near/widget/ProfilePage)
@@ -38,7 +36,7 @@ A repository to document my learning about NEAR.
   - [Burrito Pet Game - Minter](https://near.social/#/yairnava.near/widget/Burrito-Virtual-Pet-Mint)
   - [Bookstore](https://near.org/alantests.near/widget/BookStore)
 
-## Others
+### Others
 - [BuildDAO Telegram Group](https://t.me/+bQmGfDqcAT9iYTcx)
 - [NEAR Builders (Banyan Collective) Telegram Groups](https://www.nearbuilders.com/)
 - [Banyan Collective](https://www.banyan.gg/)
@@ -47,4 +45,4 @@ A repository to document my learning about NEAR.
 - [Near Social Twitter](https://twitter.com/NearSocial_)
 - [Styled Components](https://styled-components.com/)
 
-## Tips
+### Tips
