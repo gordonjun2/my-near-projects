@@ -11,6 +11,8 @@ A repository to document my learning about NEAR.
 ## NEAR Blockchain Operating System (BOS)
 
 ### Useful Videos
+- [Encode x NEAR Horizon 2023 Educate: Intro to NEAR and Horizon](https://www.youtube.com/watch?v=4pHPI7dTL3I)
+- [Encode x NEAR Horizon 2023 Educate: Build Components on the BOS](https://www.youtube.com/watch?v=WIfBXoim3Ps)
 - [BOS Academy Playlist](https://www.youtube.com/playlist?list=PLfhNHA8XzVu6wLicDkkv4hp-TXCMv6MHo)
 
 ### Useful Information and Websites
