@@ -29,6 +29,7 @@ A repository to document my learning about NEAR.
   - [NEAR.org Gateway Profile Page](https://near.org/near/widget/ComponentDetailsPage?src=near/widget/ProfilePage)
   - [Landing Page (Liberty DAO)](https://near.org/nycdao.near/widget/nyc.dao)
   - [Customizable Community Page](https://near.org/devs.near/widget/dev.main)
+  - [bbclan Community Page](https://near.social/#/gordonjun.near/widget/bbclan.dao)
 - BOS Academy Lesson 2 (Smart Contract Interactions with Alan from Open Web Academy)
   - [EVM/ETH Components](https://nearpad.dev/hackerhouse.near/widget/EVMComponents)
   - [Search all DAOs on NEAR](https://near.org/ndcplug.near/widget/AllDAOs)
