@@ -44,7 +44,7 @@ A repository to document my learning about NEAR.
   - [NFT Components](https://near.org/hackerhouse.near/widget/NFTWidgets)
   - [Mintbase NFT Marketplace Component](https://near.org/mintbase.near/widget/nft-marketplace)
 - Encode x NEAR Horizon 2023 Educate: How to Decentralize Any Frontend with BOS
-  - [Lido](https://near.social/#/mob.near/widget/WidgetSource?src=achildhoodhero.near/widget/lido.stake.bos)
+  - [Lido](https://nearpad.dev/near/widget/ComponentDetailsPage?src=zavodil.near/widget/Lido)
   - [Price Oracle Component](https://near.social/#/mob.near/widget/WidgetSource?src=wecare.near/widget/PriceOracle.NearPrices)
   - [zkSync Bridge-and-Swap](https://near.social/#/mob.near/widget/WidgetSource?src=wecare.near/widget/zksync)
   - [zkEVM Bridge-and-Swap](https://near.social/#/mob.near/widget/WidgetSource?src=wecare.near/widget/zkevm)
