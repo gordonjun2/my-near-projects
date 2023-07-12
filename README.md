@@ -13,6 +13,8 @@ A repository to document my learning about NEAR.
 ### Useful Videos
 - [Encode x NEAR Horizon 2023 Educate: Intro to NEAR and Horizon](https://www.youtube.com/watch?v=4pHPI7dTL3I)
 - [Encode x NEAR Horizon 2023 Educate: Build Components on the BOS](https://www.youtube.com/watch?v=WIfBXoim3Ps)
+- [Encode x NEAR Horizon 2023 Educate: How to Decentralize Any Frontend with BOS](https://www.youtube.com/watch?v=3fQf4eaLXhU)
+- [Encode x NEAR Horizon 2023 Educate: Deploying NFT Marketplaces](https://www.youtube.com/watch?v=12L4oDC404M)
 - [BOS Academy Playlist](https://www.youtube.com/playlist?list=PLfhNHA8XzVu6wLicDkkv4hp-TXCMv6MHo)
 
 ### Useful Information and Websites
@@ -38,8 +40,24 @@ A repository to document my learning about NEAR.
   - [Burrito Pet Game - Pet Interact](https://near.social/#/yairnava.near/widget/Burrito-Virtual-Pet-Interact)
   - [Burrito Pet Game - Minter](https://near.social/#/yairnava.near/widget/Burrito-Virtual-Pet-Mint)
   - [Bookstore](https://near.org/alantests.near/widget/BookStore)
+- BOS Academy Lesson 3 (Indexers, APIs, & Components w/ Luis from Mintbase)
+  - [NFT Components](https://near.org/hackerhouse.near/widget/NFTWidgets)
+  - [Mintbase NFT Marketplace Component](https://near.org/mintbase.near/widget/nft-marketplace)
+- Encode x NEAR Horizon 2023 Educate: How to Decentralize Any Frontend with BOS
+  - [Lido](https://near.social/#/mob.near/widget/WidgetSource?src=achildhoodhero.near/widget/lido.stake.bos)
+  - [Price Oracle Component](https://near.social/#/mob.near/widget/WidgetSource?src=wecare.near/widget/PriceOracle.NearPrices)
+  - [zkSync Bridge-and-Swap](https://near.social/#/mob.near/widget/WidgetSource?src=wecare.near/widget/zksync)
+  - [zkEVM Bridge-and-Swap](https://near.social/#/mob.near/widget/WidgetSource?src=wecare.near/widget/zkevm)
 
-### Others
+### Tips
+
+## Useful Websites
+- [NEAR Nightshade Sharding](https://near.org/papers/nightshade/)
+- [NEAR Tasks](https://satori.art/neartasks)
+- [NEAR RPC Providers](https://docs.near.org/api/rpc/providers)
+- [NEAR Documentation](https://docs.near.org/develop/welcome)
+- [NEAR Learning Resources](https://wiki.near.org/support/learning/)
+- [More NEAR Courses](https://pages.near.org/learn/learn-more/)
 - [BuildDAO Telegram Group](https://t.me/+bQmGfDqcAT9iYTcx)
 - [NEAR Builders (Banyan Collective) Telegram Groups](https://www.nearbuilders.com/)
 - [Banyan Collective](https://www.banyan.gg/)
@@ -47,5 +65,7 @@ A repository to document my learning about NEAR.
 - [NEAR Developer Governance](https://www.neardevgov.org/)
 - [Near Social Twitter](https://twitter.com/NearSocial_)
 - [Styled Components](https://styled-components.com/)
-
-### Tips
+- [Namesky](https://namesky.app/)
+- [Mintbase App](https://www.mintbase.xyz/)
+- [Mintbase Testnet](https://testnet.mintbase.xyz/)
+- [Mintbase Documentation](https://docs.mintbase.xyz/)
