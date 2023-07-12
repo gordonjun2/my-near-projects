@@ -3,6 +3,7 @@ A repository to document my learning about NEAR.
 
 ## Learning Journey
 - NEAR Smart Contracts
+  - [NEAR Web Series](https://www.youtube.com/playlist?list=PL0cPWYDSqQ29yI57TUbKwqU8KbYv4MEX5) 
 - NEAR Blockchain Operating System (BOS)
   - [BOS Academy](https://near.social/#/mob.near/widget/MyPage?accountId=academy.near)
 
