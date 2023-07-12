@@ -51,7 +51,7 @@ A repository to document my learning about NEAR.
 
 ### Tips
 
-## Useful Websites
+## Others
 - [NEAR Nightshade Sharding](https://near.org/papers/nightshade/)
 - [NEAR Tasks](https://satori.art/neartasks)
 - [NEAR RPC Providers](https://docs.near.org/api/rpc/providers)
