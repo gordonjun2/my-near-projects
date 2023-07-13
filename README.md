@@ -14,6 +14,7 @@ A repository to document my learning about NEAR.
 - [near-smart-contract-rust-template](https://github.com/NEARFoundation/near-smart-contract-rust-template)
 - [near-examples](https://github.com/near-examples)
 - [nswap-rs - Basic AMM for Near protocol](https://github.com/ahmedali8/nswap-rs)
+- [Explore NEAR dApps](https://near.org/applications)
 
 ## NEAR Blockchain Operating System (BOS)
 
@@ -32,6 +33,7 @@ A repository to document my learning about NEAR.
 - [Near Social GitHub](https://github.com/NearSocial)
 - [NEAR BOS Documentation](https://docs.near.org/bos/)
 - [nearpad](https://nearpad.dev/)
+- [BOS - Another BOS Gateway](https://bos.gg/#/)
 
 ### Projects
 - BOS Academy Lesson 1 (Build Your First #BOS App)
@@ -78,3 +80,8 @@ A repository to document my learning about NEAR.
 - [Mintbase Documentation](https://docs.mintbase.xyz/)
 - [NEAR Explorer](https://explorer.near.org/)
 - [NearBlocks](https://nearblocks.io/)
+- [Nomicon (Protocol Specification)](https://nomicon.io/)
+- [NEAR Enhancement Proposals](https://github.com/near/NEPs)
+- [NEAR Atlas](https://nearatlas.com/)
+- [MyNearWallet](https://app.mynearwallet.com/)
+- [MyNearWallet Testnet](https://testnet.mynearwallet.com/)
