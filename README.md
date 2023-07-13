@@ -85,3 +85,4 @@ A repository to document my learning about NEAR.
 - [NEAR Atlas](https://nearatlas.com/)
 - [MyNearWallet](https://app.mynearwallet.com/)
 - [MyNearWallet Testnet](https://testnet.mynearwallet.com/)
+- [NEAR Office Hours for Developers](https://near.org/developers/get-help/office-hours)
