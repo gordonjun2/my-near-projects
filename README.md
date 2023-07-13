@@ -9,6 +9,12 @@ A repository to document my learning about NEAR.
 
 ## NEAR Smart Contracts
 
+### Useful Information and Websites
+- [NEAR Documentation](https://docs.near.org/)
+- [near-smart-contract-rust-template](https://github.com/NEARFoundation/near-smart-contract-rust-template)
+- [near-examples](https://github.com/near-examples)
+- [nswap-rs - Basic AMM for Near protocol](https://github.com/ahmedali8/nswap-rs)
+
 ## NEAR Blockchain Operating System (BOS)
 
 ### Useful Videos
@@ -70,3 +76,5 @@ A repository to document my learning about NEAR.
 - [Mintbase App](https://www.mintbase.xyz/)
 - [Mintbase Testnet](https://testnet.mintbase.xyz/)
 - [Mintbase Documentation](https://docs.mintbase.xyz/)
+- [NEAR Explorer](https://explorer.near.org/)
+- [NearBlocks](https://nearblocks.io/)
