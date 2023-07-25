@@ -16,6 +16,10 @@ A repository to document my learning about NEAR.
 - [nswap-rs - Basic AMM for Near protocol](https://github.com/ahmedali8/nswap-rs)
 - [Explore NEAR dApps](https://near.org/applications)
 
+### VSCode Extensions
+- Rust Analyzer: rust-lang.rust-analyzer
+- Even Better TOML: tamasfe.even-better-toml
+
 ## NEAR Blockchain Operating System (BOS)
 
 ### Useful Videos
