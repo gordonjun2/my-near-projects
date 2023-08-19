@@ -41,6 +41,7 @@ A repository to document my learning about NEAR.
 - [Near BOS Sandbox](https://near.org/sandbox)
 - [nearpad](https://nearpad.dev/)
 - [BOS Loader](https://github.com/near/bos-loader)
+- [Set BOS Loader URL](https://near.org/flags)
 - [BOS CLI](https://github.com/bos-cli-rs/bos-cli-rs)
 - [BOS - Another BOS Gateway](https://bos.gg/#/)
 
