@@ -15,6 +15,7 @@ A repository to document my learning about NEAR.
 - [near-examples](https://github.com/near-examples)
 - [nswap-rs - Basic AMM for Near protocol](https://github.com/ahmedali8/nswap-rs)
 - [Explore NEAR dApps](https://near.org/applications)
+- [Near Contract Parser](https://www.npmjs.com/package/near-contract-parser)
 
 ### VSCode Extensions
 - Rust Analyzer: rust-lang.rust-analyzer
