@@ -60,6 +60,12 @@ A repository to document my learning about NEAR.
 - BOS Academy Lesson 3 (Indexers, APIs, & Components w/ Luis from Mintbase)
   - [NFT Components](https://near.org/hackerhouse.near/widget/NFTWidgets)
   - [Mintbase NFT Marketplace Component](https://near.org/mintbase.near/widget/nft-marketplace)
+- BOS Academy Lesson 4 (BOS Chain-Agnostic Component Design Patterns w/ Manza from Meta Pool)
+  - [Chain-Agnostic BOS Workshop](https://github.com/leomanza/chain-agnostic-bos-workshop)
+- BOS Academy Lesson 5 (Building Anything with Everything w/ Elliot from Everything.dev)
+  - 
+- BOS Academy Lesson 6 (BOS Gateways & VM w/ Matt Lockyer from Proximity)
+  - 
 - Encode x NEAR Horizon 2023 Educate: How to Decentralize Any Frontend with BOS
   - [Lido](https://nearpad.dev/near/widget/ComponentDetailsPage?src=zavodil.near/widget/Lido)
   - [Price Oracle Component](https://near.social/#/mob.near/widget/WidgetSource?src=wecare.near/widget/PriceOracle.NearPrices)
