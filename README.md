@@ -35,8 +35,12 @@ A repository to document my learning about NEAR.
 - [Near Social Technical Documentation](https://thewiki.near.page/near.social_docs)
 - [Past, Present And Future Of Near Social](https://thewiki.near.page/PastPresentAndFutureOfNearSocial)
 - [Near Social GitHub](https://github.com/NearSocial)
+- [Near Discovery](https://github.com/near/near-discovery)
 - [NEAR BOS Documentation](https://docs.near.org/bos/)
+- [Near BOS Sandbox](https://near.org/sandbox)
 - [nearpad](https://nearpad.dev/)
+- [BOS Loader](https://github.com/near/bos-loader)
+- [BOS CLI](https://github.com/bos-cli-rs/bos-cli-rs)
 - [BOS - Another BOS Gateway](https://bos.gg/#/)
 
 ### Projects
